@@ -4,7 +4,7 @@
         "container": [
                 {
                     "icon": "OωO",
-                    "text": "Author: DIYgod"
+                    "text": "OwO"
                 },
                 {
                     "icon": "|´・ω・)ノ",
@@ -269,34 +269,315 @@
             }
         ]
     },
-    "图片表情": {
+    "Mo": {
         "type": "image",
         "container": [
             {
-                "icon": "<img src=\"https://i.loli.net/2017/08/12/598f017a18a16.png\">",
-                "text": "#hj"
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/haha.png\">",
+                "text": "haha"
             },
             {
-                "icon": "<img src=\"https://i.loli.net/2017/08/12/598f01a881560.png\">",
-                "text": "#yx"
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/ok.png\">",
+                "text": "ok"
             },
             {
-                "icon": "<img src=\"https://i.loli.net/2017/08/12/598f01c89af88.png\">",
-                "text": "#ks"
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/啊.png\">",
+                "text": "啊"
             },
             {
-                "icon": "<img src=\"https://i.loli.net/2017/08/12/598f01e25337d.png\">",
-                "text": "#sq"
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/爱心.png\">",
+                "text": "爱心"
             },
             {
-                "icon": "<img src=\"https://i.loli.net/2017/08/12/598f02030d545.png\">",
-                "text": "#jy"
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/鄙视.png\">",
+                "text": "鄙视"
             },
             {
-                "icon": "<img src=\"https://i.loli.net/2017/08/12/598f0224eef86.png\">",
-                "text": "#汗"
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/不高兴.png\">",
+                "text": "不高兴"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/彩虹.png\">",
+                "text": "彩虹"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/大拇指.png\">",
+                "text": "大拇指"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/蛋糕.png\">",
+                "text": "蛋糕"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/灯泡.png\">",
+                "text": "灯泡"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/乖.png\">",
+                "text": "乖"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/哈哈.png\">",
+                "text": "哈哈"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/汗.png\">",
+                "text": "汗"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/呵呵.png\">",
+                "text": "呵呵"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/黑线.png\">",
+                "text": "黑线"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/呼.png\">",
+                "text": "呼"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/花心.png\">",
+                "text": "花心"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/滑稽.png\">",
+                "text": "滑稽"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/惊哭.png\">",
+                "text": "惊哭"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/咖啡.png\">",
+                "text": "咖啡"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/酷.png\">",
+                "text": "酷"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/狂汗.png\">",
+                "text": "狂汗"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/泪.png\">",
+                "text": "泪"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/冷.png\">",
+                "text": "冷"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/礼物.png\">",
+                "text": "礼物"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/玫瑰.png\">",
+                "text": "玫瑰"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/勉强.png\">",
+                "text": "勉强"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/怒.png\">",
+                "text": "怒"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/喷.png\">",
+                "text": "喷"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/钱.png\">",
+                "text": "钱"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/钱币.png\">",
+                "text": "钱币"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/弱.png\">",
+                "text": "弱"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/升起.png\">",
+                "text": "升起"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/胜利.png\">",
+                "text": "胜利"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/睡觉.png\">",
+                "text": "睡觉"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/太开心.png\">",
+                "text": "太开心"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/太阳.png\">",
+                "text": "太阳"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/吐.png\">",
+                "text": "吐"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/吐舌.png\">",
+                "text": "吐舌"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/委屈.png\">",
+                "text": "委屈"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/笑眼.png\">",
+                "text": "笑眼"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/心碎.png\">",
+                "text": "心碎"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/星星月亮.png\">",
+                "text": "星星月亮"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/咦.png\">",
+                "text": "咦"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/疑问.png\">",
+                "text": "疑问"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/阴险.png\">",
+                "text": "阴险"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/音乐.png\">",
+                "text": "音乐"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/真棒.png\">",
+                "text": "真棒"
+            }
+
+        ]
+    },
+    "洛天依": {
+        "type": "image",
+        "container": [
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/1-01晕.gif\">",
+                "text": "晕"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/1-02一眼认出.gif\">",
+                "text": "一眼认出"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/1-03谢谢.gif\">",
+                "text": "谢谢"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/1-04笑哭了.gif\">",
+                "text": "笑哭了"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/1-05呜呜呜.gif\">",
+                "text": "呜呜呜"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/1-06我来啦.gif\">",
+                "text": "我来啦"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/1-07泥奏凯.gif\">",
+                "text": "泥奏凯"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/1-08摸鱼.gif\">",
+                "text": "摸鱼"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/1-09花式点赞.gif\">",
+                "text": "花式点赞"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/1-10好生气呀.gif\">",
+                "text": "好生气呀"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/1-11奋斗.gif\">",
+                "text": "奋斗"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/1-12吃药药.gif\">",
+                "text": "吃药药"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/1-13不要不要.gif\">",
+                "text": "不要不要"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/1-14爱你哟.gif\">",
+                "text": "爱你哟"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/1-15Nonono.gif\">",
+                "text": "Nonono"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/1-16Bye.gif\">",
+                "text": "Bye"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/2-05我收到了成吨的伤害.gif\">",
+                "text": "我收到了成吨的伤害"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/2-06天依式乖巧.gif\">",
+                "text": "天依式乖巧"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/2-07送你小花花.gif\">",
+                "text": "送你小花花"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/2-08是你的皮皮虾么.gif\">",
+                "text": "是你的皮皮虾么"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/2-09请开始你的表演.gif\">",
+                "text": "请开始你的表演"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/2-11加油你是最胖的.gif\">",
+                "text": "加油你是最胖的"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/2-12害怕.gif\">",
+                "text": "害怕"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/2-13给你.gif\">",
+                "text": "给你"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/2-14盯.gif\">",
+                "text": "盯"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/2-15吃Dogfood吗.gif\">",
+                "text": "吃狗粮吗"
+            },
+            {
+                "icon": "<img src=\"//cdn.lvmoo.com/images/expressions/2-16爱心发射.gif\">",
+                "text": "爱心发射"
             }
         ]
     }
-
 }
